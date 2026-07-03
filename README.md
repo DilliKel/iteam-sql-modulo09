@@ -14,6 +14,7 @@ Repositório com atividades e material de aula da disciplina **Bancos de Dados e
 | Atividade | Tema | Arquivo |
 |-----------|------|---------|
 | 29 e 30 | Modelagem de banco de dados — DER Clínica | [atividade-29-30](./atividade-29-30) |
+| 02/07 | Consultas SQL — WHERE e ORDER BY | [atividade-02-07](./atividade-02-07) |
 
 ## Material de Aulas
 
